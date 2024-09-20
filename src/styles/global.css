@@ -1,0 +1,22 @@
+body {
+  background: #ffd3e0;
+}
+
+.container {
+  max-width: 75rem;
+  min-height: 100vh;
+  background: #ffeff6;
+  padding: 1.875rem;
+  margin: 0 auto;
+}
+
+.button-container {
+  min-height: 4rem;
+  display: flex;
+  align-items: flex-end;
+}
+
+.search-container h1 {
+margin-bottom: 1.875rem;
+border: red solid 10px;
+}
